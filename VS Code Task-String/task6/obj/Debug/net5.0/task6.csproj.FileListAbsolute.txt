@@ -1,0 +1,16 @@
+D:\VS Code Task\task6\bin\Debug\net5.0\task6.exe
+D:\VS Code Task\task6\bin\Debug\net5.0\task6.deps.json
+D:\VS Code Task\task6\bin\Debug\net5.0\task6.runtimeconfig.json
+D:\VS Code Task\task6\bin\Debug\net5.0\task6.runtimeconfig.dev.json
+D:\VS Code Task\task6\bin\Debug\net5.0\task6.dll
+D:\VS Code Task\task6\bin\Debug\net5.0\ref\task6.dll
+D:\VS Code Task\task6\bin\Debug\net5.0\task6.pdb
+D:\VS Code Task\task6\obj\Debug\net5.0\task6.csprojAssemblyReference.cache
+D:\VS Code Task\task6\obj\Debug\net5.0\task6.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Code Task\task6\obj\Debug\net5.0\task6.AssemblyInfoInputs.cache
+D:\VS Code Task\task6\obj\Debug\net5.0\task6.AssemblyInfo.cs
+D:\VS Code Task\task6\obj\Debug\net5.0\task6.csproj.CoreCompileInputs.cache
+D:\VS Code Task\task6\obj\Debug\net5.0\task6.dll
+D:\VS Code Task\task6\obj\Debug\net5.0\ref\task6.dll
+D:\VS Code Task\task6\obj\Debug\net5.0\task6.pdb
+D:\VS Code Task\task6\obj\Debug\net5.0\task6.genruntimeconfig.cache
